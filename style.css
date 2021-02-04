@@ -1,0 +1,23 @@
+#loading {
+    display: inline;
+    color: red;
+    font-size: 30px;
+    font-family: cursive;
+  }
+  .current-display {
+    border-radius: 30px 20px;
+  }
+  .current-display {
+    color: green;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .day {
+    text-align: center;
+  }
+  .fas {
+    text-align: center;
+    color: pink;
+    font-size: 50px;
+  }
+  
